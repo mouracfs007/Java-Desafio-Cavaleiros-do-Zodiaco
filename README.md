@@ -1,10 +1,14 @@
 # Java-Desafio-Cavaleiros-do-Zodiaco
 
+![Cavaleiros do Zodíaco](https://github.com/mouracfs007/Java-Desafio-Cavaleiros-do-Zodiaco/blob/master/imagem%20cavaleiro/Cavaleiros.jpeg "Imagem do anime")
+
+
+
 # Sobre o desafio
 
   Desafio realizado durante a aula na disciplina JAVA- Conceitos de Orientação a objetos, ministrada pelo professor Pablo Rangel, pós graduado 
   e com doutorado na área da computação.
   
-Foi um desafio bem simples, que tratava de brincar com algumas estruturas de repetição como whilhe para fixação de exercícios.
- O programa faz uma " Batalha " entre dois personagens de um anime famoso japonês entre dois cavaleiro, até que algum dos elementos
- chegue ao numero 0 de vida, assim mostrando o resultado de " Vencedor " na tela o objeto que foi vencedor.
+Foi um desafio bem simples, que tentava brincar com algumas estruturas de repetição como whilhe para fixação de exercícios.
+ O programa faz uma " Batalha " entre dois personagens de um anime famoso japonês, ou entre dois cavaleiro, até que algum dos elementos
+ chegasse ao número 0 de vida, assim mostrando o resultado de " Vencedor " na tela para aquele objeto que foi vencedor.
